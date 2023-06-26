@@ -45,7 +45,7 @@ void firstlast(int p[],int num,int n)  //function to find first and last occuren
            
     }      
     if(last==-1)
-        printf("Element not found\n");
+        printf("Element not found in array\n");
     else
         printf("First =%d  last= %d\n",first,last);
 }
