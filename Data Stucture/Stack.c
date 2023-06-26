@@ -7,7 +7,7 @@ int main()
 
     do {
 
-        printf("\nMenu\n 1.Push\n 2.Pop\n 3.Stacktop \n 4.Display \n 5.Exit\n");
+        printf("\nMenu\n 1.Push\n 2.Pop\n \n3.Stacktop \n 4.Display \n 5.Exit\n");
         printf("Enter your choice\n");
         scanf("%d",&choice);
         switch(choice)
